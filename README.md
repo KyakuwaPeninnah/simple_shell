@@ -37,9 +37,6 @@ This is a group project for developing a simple UNIX command-line shell in the C
 1. Clone this repository to your local machine:
 
    ```bash
-<<<<<<< HEAD
-   git clone https://github.com/KyakuwaPeninnah/0x16-simple-shell.git
-=======
    git clone https://github.com/your_username/simple_shell.git
    
 2. Navigate to the project directory:
