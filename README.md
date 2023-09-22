@@ -8,9 +8,6 @@
 - [How to Build and Run](#how-to-build-and-run)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Questions or Issues](#questions-or-issues)
 
 ## Project Overview
 
@@ -41,5 +38,7 @@ This is a group project for developing a simple UNIX command-line shell in the C
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/0x16-simple-shell.git
+   git clone https://github.com/KyakuwaPeninnah/0x16-simple-shell.git
+
+
 
