@@ -17,12 +17,10 @@
 This is a group project for developing a simple UNIX command-line shell in the C programming language. The primary goal of this project is to create a functioning shell capable of executing basic commands, managing processes, and handling system calls. It is designed to mimic the behavior of a simplified Unix shell.
 
 - **Project Type:** Group Project
-- **Team Members:** Julien Barbier, Peninnah Kyakuwa
+- **Team Members:** Peninnah Kyakuwa
 - **Project Weight:** 10
 
 ## Team Members
-
-- [Julien Barbier](https://github.com/julienbarbier42)
 - [Peninnah Kyakuwa](https://github.com/peninnah-kay)
 
 ## Features
